@@ -1,0 +1,67 @@
+/*header start*/
+.header{
+    width: 100%;
+    height: 69px;
+    background: #d9e9e7;
+    color: #f30004; /*文字颜色*/
+}
+
+.header .header-contain{
+    width: 1201px;
+    height: 61px;
+    margin: auto;
+    line-height: 60px;
+    border: black solid 4px;
+    background: rgba(251, 183, 17, 0.13);
+}
+
+.main{
+    width: 100%;
+    padding: 10px 10px 10px 0px;
+}
+
+.main .box {
+    width: 1200px;
+    margin: auto;
+    background: #87ff00;
+}
+
+.main .box .L-box{
+    float: left;
+    width: 730px;
+    line-height: 30px;
+    background: #d9e9e7;
+    border: aqua solid 1px;
+}
+
+.main .box .R-box{
+    float: right;
+    width: 450px;
+    line-height: 27px;
+    background: #d9e9e7;
+    color: #f30004;
+    border: aqua solid  1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
